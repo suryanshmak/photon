@@ -38,11 +38,10 @@ header h2 {
     border: none;
     outline: none;
     width: 100%;
-    border: 1px solid rgb(0, 0, 68);
     border-radius: 5px 0 0 5px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    box-shadow: 5px 5px 8px rgb(216, 216, 216);
+    box-shadow: 5px 5px 8px rgb(80, 80, 80);
 }
 .search-input::placeholder {
     font-size: 1.3rem;
@@ -58,7 +57,7 @@ header h2 {
     color: white;
     cursor: pointer;
     border-radius: 0 5px 5px 0;
-    box-shadow: 5px 5px 8px rgb(196, 196, 196);
+    box-shadow: 5px 5px 8px rgb(39, 39, 39);
 } 
 .note-container {
     display: flex;
